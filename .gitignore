@@ -1,0 +1,6 @@
+*
+!.gitignore
+!data/
+!data/*
+!pyproject.toml
+!entraperm.py
