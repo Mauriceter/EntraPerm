@@ -1,6 +1,5 @@
 *
-!.gitignore
-!data/
-!data/*
-!pyproject.toml
-!entraperm.py
+!entraperm/
+!setup.py
+!README.md
+!entraperm/**
