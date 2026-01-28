@@ -24,5 +24,5 @@ setup(
     },
 
     description="Microsoft Entra ID permissions inspector",
-    author="Your Name",
+    author="Mauriceter",
 )
